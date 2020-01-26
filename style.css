@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+    color: white;
+}
+div {
+    background: #256454;
+    color: rgb(200, 150, 29);
+}
+.section2 {
+    background: orange;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+#section2 {
+    background: salmon;
+    color: cyan;
+}
